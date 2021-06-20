@@ -14,6 +14,7 @@
 *             Indice [1] --- 0+2/2 = 1 (ingual ao indice)
 *             Indice [2] --- 1+3/2 = 2 (ingual ao indice)
 *             Indice [3] --- 2+0/2 = 1
+* 
 * TESTE DE EFICIÊNCIA
 * Tempo de Execução: 2.25 ms
 * Memória Usada: 1 MB
