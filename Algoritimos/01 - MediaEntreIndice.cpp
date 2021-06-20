@@ -9,12 +9,14 @@
 *
 * Exemplo:
 * Entrada: nums = [0,1,2,3]
-* Sa�da: [2]
+* Saída: [2]
 * Explicacao: Indice [0] --- 0+1/2 = 0.5
 *             Indice [1] --- 0+2/2 = 1 (ingual ao indice)
 *             Indice [2] --- 1+3/2 = 2 (ingual ao indice)
 *             Indice [3] --- 2+0/2 = 1
-*
+* TESTE DE EFICIÊNCIA
+* Tempo de Execução: 2.25 ms
+* Memória Usada: 1 MB
 *****************************************************************************************/
 #include <iostream>
 #include <vector>
