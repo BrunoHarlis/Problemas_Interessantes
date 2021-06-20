@@ -3,4 +3,4 @@
 
 #|Problema|Solução
 -----|----------|----------
-01|Media Entre Numeros|[C++](https://github.com/BrunoHarlis/Problemas_Interessantes/blob/main/Algoritimos/01%20-%20MediaEntreIndice.cpp)
+01|Média Entre Números|[C++](https://github.com/BrunoHarlis/Problemas_Interessantes/blob/main/Algoritimos/01%20-%20MediaEntreIndice.cpp)
