@@ -60,7 +60,10 @@ int main()
 {
     vector<string> x{"Daisy", "Rose", "Hyacinth", "Poppy"};
 
-    cout << unirNome(x);
+    if (unirNome(x) == "DRHPaoyoisapsecpyiynth")
+        cout << unirNome(x) << endl;
+    else
+        cout << "Nao eh igual, seu burro!" << endl;
 
     return 0;
 }
