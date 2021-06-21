@@ -4,3 +4,4 @@
 #|Problema|Solução
 -----|----------|----------
 01|Média Entre Números|[C++](https://github.com/BrunoHarlis/Problemas_Interessantes/blob/main/Algoritimos/01%20-%20MediaEntreIndice.cpp)
+02|Construir String|[C++](https://github.com/BrunoHarlis/Problemas_Interessantes/blob/main/Algoritimos/02%20-%20ConstruirString.cpp)
