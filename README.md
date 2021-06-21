@@ -1,5 +1,5 @@
 # Problemas Interessantes
- Solução de problemas que encontrei na internet e achei interessante
+ Solução de problemas que encontrei na internet e achei interessante ou que amigos me enviaram.
 
 #|Problema|Solução
 -----|----------|----------
